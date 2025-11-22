@@ -76,6 +76,7 @@ com.example.moviefinder/
 
 ## 📸 Screenshots
 ![MovieFinderAppScreenshot.png](screenshots/MovieFinderAppScreenshot.png)
+![MovieFinderAppUsingSearch.png](screenshots/MovieFinderAppUsingSearch.png)
 
 ## 🎓 What I Learned
 
